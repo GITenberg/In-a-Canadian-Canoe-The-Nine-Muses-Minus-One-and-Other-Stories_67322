@@ -1,5 +1,8 @@
 _repo: In-a-Canadian-Canoe-The-Nine-Muses-Minus-One-and-Other-Stories_67322
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67322-h/images/cover.jpg
 creator:
   author:
     agent_name: Pain, Barry
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26030
     wikipedia: http://en.wikipedia.org/wiki/Barry_Pain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67322#In-a-Canadian-Canoe-The-Nine-Muses-Minus-One-and-Other-Stories
 gutenberg_issued: '2022-02-05'
 identifiers:
   gutenberg: '67322'
